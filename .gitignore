@@ -1,0 +1,12 @@
+# Local configuration and credentials
+.env
+.env.*
+!.env.example
+config.local.php
+
+# Temporary files and operating-system metadata
+/tmp/
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.log
